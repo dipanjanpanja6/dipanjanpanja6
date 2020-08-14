@@ -44,12 +44,12 @@
 ---
 
 
-<details>
+<!-- <details> -->
   <summary>:zap: Github Stats</summary>
 
   <img align="left" alt="dipanjan Panja's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=dipanjanpanja6&show_icons=true&hide_border=true" />
 
-</details>
+<!-- </details> -->
 
 [website]: https://codeSTACKr.com
 [twitter]: https://twitter.com/dipanjanpanja6

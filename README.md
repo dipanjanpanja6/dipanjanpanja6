@@ -56,8 +56,9 @@
   <!-- <summary>:zap: Github Repo</summary> -->
 
 <!-- [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dipanjanpanja6&repo=dipanjanpanja6)](https://github.com/dipanjanpanja6/dipanjanpanja6) -->
+<img align="right" alt="dipanjan Panja's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dipanjanpanja6&layout=compact&theme=dark&show_icons=true&hide_border=true" />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dipanjanpanja6&layout=compact&theme=dark&show_icons=true&hide_border=true)](https://github.com/dipanjanpanja6/dipanjanpanja6)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dipanjanpanja6&layout=compact&theme=dark&show_icons=true&hide_border=true)](https://github.com/dipanjanpanja6/dipanjanpanja6) -->
 
 
 [website]: https://codeSTACKr.com

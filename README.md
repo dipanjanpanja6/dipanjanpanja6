@@ -1,4 +1,4 @@
-![](./media/header_.png)
+![](https://github.com/dipanjanpanja6/dipanjanpanja6/blob/master/media/header_.png)
 ### Hi there, I'm Dipanjan Panja  👋
  <!-- - aka [dp][website] -->
 

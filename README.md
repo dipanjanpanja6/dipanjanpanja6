@@ -1,4 +1,4 @@
-![](https://github.com/dipanjanpanja6/dipanjanpanja6/blob/master/media/header_.png)
+![](./media/header_.png)
 ### Hi there, I'm Dipanjan Panja  👋
  <!-- - aka [dp][website] -->
 
@@ -49,10 +49,12 @@
 
 <!-- <details> -->
   <summary>:zap: Github Stats</summary>
+  <img align="left" alt="dipanjan Panja's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=dipanjanpanja6&show_icons=true&hide_border=true&count_private=true&theme=dark" />
+  <details>
+  <summary>:zap: Github Repo</summary>
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dipanjanpanja6&repo=dipanjanpanja6)](https://github.com/dipanjanpanja6/dipanjanpanja6)
 
-  <img align="left" alt="dipanjan Panja's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=dipanjanpanja6&show_icons=true&hide_border=true" />
-
-<!-- </details> -->
+</details>
 
 [website]: https://codeSTACKr.com
 [twitter]: https://twitter.com/dipanjanpanja6

@@ -65,7 +65,7 @@
 <br />
 
 ### Stats and others:
-![Github Stats](https://github-readme-stats.codestackr.vercel.app/api?username=dipanjanpanja6&show_icons=true&hide_border=true&count_private=true&theme=dark&hide=issues)
+![Github Stats](https://github-readme-stats-liard-two.vercel.app/api?username=dipanjanpanja6&show_icons=true&hide_border=true&count_private=true&theme=dark&hide=issues)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dipanjanpanja6&layout=compact&theme=dark&show_icons=true&hide_border=true)
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=dipanjanpanja6)

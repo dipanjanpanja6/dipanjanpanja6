@@ -6,14 +6,14 @@
 
 <img align='right' src='https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif' width='200"'>
 
-* 🔭 I’m currently working on **React JS**
+* 🔭 I’m currently working on **VS Code** 😁
 * 🌱 I’m currently learning everything 🤣
 * 🤔 I’m looking for help with Data Structures and Algorithms 😭
 * 💬 Ask me about anything, I am happy to help
 * 😄 Pronouns: **Coder** and **Kind Hearted**
 * :bulb: Occasionaly I do participate in **Hackathons**
 * 🥅 2020 Goals: [Hack The Box][htb]
-* ⚡ Fun fact: I love to learn new things and play guitar
+* ⚡ Fun fact: I love to learn new things and play guitar(but i can't) 
 
 <br/>
 

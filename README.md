@@ -1,17 +1,19 @@
 ![](https://github.com/dipanjanpanja6/dipanjanpanja6/blob/master/media/header_.png)
+
 ### Hi there, I'm Dipanjan Panja  👋
+
  <!-- - aka [dp][website] -->
 
 <!-- ## I'm a Husband, Father, Developer, and Teacher! -->
 <img align='right' src='https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif' width='200"'>
 
-- 🔭 I’m currently working on [Amazon Elastic Transcoder][website]!
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to learning and experiment new things
-- 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to learn new things and play guitar
-<br/>
+* 🔭 I’m currently working on [Amazon Elastic Transcoder][website]!
+* 🌱 I’m currently learning everything 🤣
+* 👯 I’m looking to learning and experiment new things
+* 🥅 2020 Goals: Contribute more to Open Source projects
+* ⚡ Fun fact: I love to learn new things and play guitar
 
+<br/>
 
 ### Connect with me:
 
@@ -46,28 +48,25 @@
 <br />
 
 ---
+
 ### Stats and others:
 
-<!-- <details> -->
-  <!-- <summary>:zap: Github Stats</summary> -->
   <img align="left" alt="dipanjan Panja's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=dipanjanpanja6&show_icons=true&hide_border=true&count_private=true&theme=dark&hide=issues" />
 
- <details>
+<img align="right" alt="dipanjan Panja's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dipanjanpanja6&layout=compact&theme=dark&show_icons=true&hide_border=true" />
+
+---
+
+<details>
   <summary>:zap: Recent Github Activity</summary>
   
   <!--START_SECTION:activity-->
-  
+
   <!--END_SECTION:activity-->
   
 </details>
 
-  <!-- <summary>:zap: Github Repo</summary> -->
-
-<!-- [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dipanjanpanja6&repo=dipanjanpanja6)](https://github.com/dipanjanpanja6/dipanjanpanja6) -->
-<img align="right" alt="dipanjan Panja's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dipanjanpanja6&layout=compact&theme=dark&show_icons=true&hide_border=true" />
-
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dipanjanpanja6&layout=compact&theme=dark&show_icons=true&hide_border=true)](https://github.com/dipanjanpanja6/dipanjanpanja6) -->
-
+---
 
 [website]: https://codeSTACKr.com
 [twitter]: https://twitter.com/dipanjanpanja6

@@ -55,7 +55,7 @@
 <img align="right" alt="dipanjan Panja's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dipanjanpanja6&layout=compact&theme=dark&show_icons=true&hide_border=true" />
 
 ---
-
+### Others
 <details>
   <summary>:zap: Recent Github Activity</summary>
   

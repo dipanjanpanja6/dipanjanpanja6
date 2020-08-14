@@ -9,7 +9,7 @@
 * 🔭 I’m currently working on [Amazon Elastic Transcoder][website]!
 * 🌱 I’m currently learning everything 🤣
 * 👯 I’m looking to learning and experiment new things
-* 🥅 2020 Goals: Contribute more to Open Source projects
+* 🥅 2020 Goals: [Hack The Box][htb]
 * ⚡ Fun fact: I love to learn new things and play guitar
 
 <br/>
@@ -46,7 +46,7 @@
 <br />
 <br />
 
----
+
 
 ### Stats and others:
 
@@ -55,18 +55,9 @@
 <img align="right" alt="dipanjan Panja's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dipanjanpanja6&layout=compact&theme=dark&show_icons=true&hide_border=true" />
 
 ---
-### Others
-<details>
-  <summary>:zap: Recent Github Activity</summary>
-  
-  <!--START_SECTION:activity-->
 
-  <!--END_SECTION:activity-->
-  
-</details>
 
----
-
+[htb]: https://hackthebox.eu
 [website]: https://codeSTACKr.com
 [twitter]: https://twitter.com/dipanjanpanja6
 [youtube]: https://youtube.com/dipanjanpanja6

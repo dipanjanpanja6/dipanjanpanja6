@@ -2,9 +2,8 @@
 
 ### Hi there, I'm Dipanjan Panja  👋
 
- <!-- - aka [dp][website] -->
+## I'm just a B. Tech Student!
 
-<!-- ## I'm a Husband, Father, Developer, and Teacher! -->
 <img align='right' src='https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif' width='200"'>
 
 * 🔭 I’m currently working on [Amazon Elastic Transcoder][website]!

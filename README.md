@@ -6,9 +6,12 @@
 
 <img align='right' src='https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif' width='200"'>
 
-* 🔭 I’m currently working on [React JS][website]!
+* 🔭 I’m currently working on **React JS**
 * 🌱 I’m currently learning everything 🤣
-* 👯 I’m looking to learning and experiment new things
+* 🤔 I’m looking for help with Data Structures and Algorithms 😭
+* 💬 Ask me about anything, I am happy to help
+* 😄 Pronouns: **Coder** and **Kind Hearted**
+* :bulb: Occasionaly I do participate in **Hackathons**
 * 🥅 2020 Goals: [Hack The Box][htb]
 * ⚡ Fun fact: I love to learn new things and play guitar
 
@@ -16,8 +19,10 @@
 
 ### Connect with me:
 
-[<img align="left" alt="dipanjanpanja.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="dipanjanpanja.web.app" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="DipanjanPanja | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="DipanjanPanja | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.1/icons/discord.svg" />][discord]
+[<img align="left" alt="DipanjanPanja | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.1/icons/stackoverflow.svg" />][stackoverflow]
 [<img align="left" alt="DipanjanPanja | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="DipanjanPanja | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="DipanjanPanja | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
@@ -75,4 +80,6 @@
 [youtube]: https://youtube.com/dipanjanpanja6
 [instagram]: https://instagram.com/dipanjanpanja6
 [linkedin]: https://linkedin.com/in/dipanjanpanja6
+[discord]: https://discord.gg/HqFzbj8
+[stackoverflow]: https://stackoverflow.com/users/11622707/dipanjan-panja?tab=profile
 

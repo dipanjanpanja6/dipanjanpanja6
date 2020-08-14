@@ -8,6 +8,9 @@
 - 👯 I’m looking to learning and experiment new things
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to learn new things and play guitar
+<br/>
+
+<img align='right' src='https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif' width='200"'>
 
 ### Connect with me:
 

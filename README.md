@@ -65,14 +65,14 @@
 <br />
 
 ### Stats and others:
-![Github Stats](github-readme-stats.dipanjanpanja6.vercel.app/api?username=dipanjanpanja6&show_icons=true&hide_border=true&count_private=true&theme=dark&hide=issues)
-![Top Langs](github-readme-stats.dipanjanpanja6.vercel.app/api/top-langs/?username=dipanjanpanja6&layout=compact&theme=dark&show_icons=true&hide_border=true)
+![Github Stats](https://github-readme-stats.dipanjanpanja6.vercel.app/api?username=dipanjanpanja6&show_icons=true&hide_border=true&count_private=true&theme=dark&hide=issues)
+![Top Langs](https://github-readme-stats.dipanjanpanja6.vercel.app/api/top-langs/?username=dipanjanpanja6&layout=compact&theme=dark&show_icons=true&hide_border=true)
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=dipanjanpanja6)
 
   <!-- <img align="left" alt="dipanjan Panja's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=dipanjanpanja6&show_icons=true&hide_border=true&count_private=true&theme=dark&hide=issues" />
 
-<img align="right" alt="dipanjan Panja's Github Stats" src="github-readme-stats.dipanjanpanja6.vercel.app/api/top-langs/?username=dipanjanpanja6&layout=compact&theme=dark&show_icons=true&hide_border=true" /> -->
+<img align="right" alt="dipanjan Panja's Github Stats" src="https://github-readme-stats.dipanjanpanja6.vercel.app/api/top-langs/?username=dipanjanpanja6&layout=compact&theme=dark&show_icons=true&hide_border=true" /> -->
 
 
 

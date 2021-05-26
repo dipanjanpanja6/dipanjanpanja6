@@ -12,8 +12,8 @@
 * 💬 Ask me about anything, I am happy to help
 * 😄 Pronouns: **Coder** and **Kind Hearted**
 * :bulb: Occasionaly I do participate in **Hackathons**
-* 🥅 2020 Goals: [Hack The Box][htb]
-* ⚡ Fun fact: I love to learn new things and play guitar(but i can't) 
+* 🥅 2021 Goals: [Hack The Box][htb]
+* ⚡ Fun fact: I love to learn new things 
 
 <br/>
 
@@ -21,12 +21,9 @@
 
 ### Connect with me:
 
-[<img align="left" alt="dipanjanpanja.web.app" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="DipanjanPanja | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.1/icons/discord.svg" />][discord]
+[<img align="left" alt="dipanjanpanja.in" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="DipanjanPanja | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.1/icons/stackoverflow.svg" />][stackoverflow]
-[<img align="left" alt="DipanjanPanja | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="DipanjanPanja | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="DipanjanPanja | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
 
@@ -44,14 +41,12 @@
 [<img align="left" alt="express" width="39px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png" />][website]
 [<img align="left" alt="fluter" width="39px" src="https://raw.githubusercontent.com/flutter/website/master/src/_assets/image/flutter-lockup.png" />][website]
 [<img align="left" alt="android Studio" width="39px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png" />][website]
-[<img align="left" alt="IOS" width="39px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ios/ios.png" />][website]
 [<img align="left" alt="React" width="39px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][website]
 [<img align="left" alt="Material-ui" width="39px" src="https://camo.githubusercontent.com/cf05625198fe7b6ad8a302d1ce16bc99b93ec2ac/68747470733a2f2f6d6174657269616c2d75692e636f6d2f7374617469632f6c6f676f2e737667" />][website]
 [<img align="left" alt="Material-ui" width="39px" src="https://camo.githubusercontent.com/bc93494c1f9faf29cae5064245e03f086a2cb1b5/68747470733a2f2f67772e616c697061796f626a656374732e636f6d2f7a6f732f726d73706f7274616c2f4b4470677667754d704766716148506a6963524b2e737667" />][website]
 [<img align="left" alt="Gatsby" width="39px" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/gatsby/gatsby.png" />][website]
 [<img align="left" alt="GraphQL" width="39px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />][website]
 [<img align="left" alt="Node.js" width="39px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][website]
-[<img align="left" alt="Deno" width="39px" src="https://raw.githubusercontent.com/github/explore/361e2821e2dea67711cde99c9c40ed357061cf27/topics/deno/deno.png" />][website]
 [<img align="left" alt="SQL" width="39px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][website]
 [<img align="left" alt="MySQL" width="39px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />][website]
 [<img align="left" alt="MongoDB" width="39px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />][website]
@@ -69,14 +64,9 @@
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=dipanjanpanja6)
 
-  <!-- <img align="left" alt="dipanjan Panja's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=dipanjanpanja6&show_icons=true&hide_border=true&count_private=true&theme=dark&hide=issues" />
-
-<img align="right" alt="dipanjan Panja's Github Stats" src="https://github-readme-stats.dipanjanpanja6.vercel.app/api/top-langs/?username=dipanjanpanja6&layout=compact&theme=dark&show_icons=true&hide_border=true" /> -->
-
-
 
 [htb]: https://hackthebox.eu
-[website]: https://dipanjan.web.app/
+[website]: https://dipanjanpanja.in/
 [twitter]: https://twitter.com/dipanjanpanja6
 [youtube]: https://youtube.com/dipanjanpanja6
 [instagram]: https://instagram.com/dipanjanpanja6

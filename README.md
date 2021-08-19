@@ -2,7 +2,7 @@
 
 ### Hi there, I'm Dipanjan Panja  👋
 
-## I'm just a B.Tech Student!
+## Associate Member Of Technical Staff at GEOGO!
 
 <img align='right' src='https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif' width='200"'>
 

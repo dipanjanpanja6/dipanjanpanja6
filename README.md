@@ -12,7 +12,7 @@
 * 💬 Ask me about anything, I am happy to help
 * 😄 Pronouns: **Coder** and **Kind Hearted**
 * :bulb: Occasionaly I do participate in **Hackathons**
-* 🥅 2021 Goals: [Hack The Box][htb]
+* 🥅 2022 Goals: Contribute more to Open Source projects
 * ⚡ Fun fact: I love to learn new things 
 
 <br/>

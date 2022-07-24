@@ -4,7 +4,7 @@
 
 ## Associate Member Of Technical Staff at GEOGO!
 
-<img align='right' src='https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif' width='200"'>
+<img align='right' src='./media/wave.gif' width='200"'>
 
 * 🔭 I’m currently working on **VS Code** 😁
 * 🌱 I’m currently learning everything 🤣

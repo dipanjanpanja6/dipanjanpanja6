@@ -2,7 +2,7 @@
 
 ### Hi there, I'm Dipanjan Panja  👋
 
-## Associate Member Of Technical Staff at GEOGO!
+## ~Associate~ Member Of Technical Staff at GEOGO!
 
 <img align='right' src='./media/wave.gif' width='200"'>
 

@@ -2,7 +2,7 @@
 
 ### Hi there, I'm Dipanjan Panja  👋
 
-## Member Of Technical Staff at GEOGO!
+## Senior Software Engineer at GEOGO!
 
 <img align='right' src='./media/wave.gif' width='200"'>
 
@@ -12,7 +12,7 @@
 * 💬 Ask me about anything, I am happy to help
 * 😄 Pronouns: **Coder** and **Kind Hearted**
 * :bulb: Occasionaly I do participate in **Hackathons**
-* 🥅 2024 Goals: Contribute more to Open Source projects
+* 🥅 2025 Goals: Contribute more to Open Source projects
 * ⚡ Fun fact: I love to learn new things 
 
 <br/>
@@ -42,8 +42,6 @@
 [<img align="left" alt="fluter" width="39px" src="https://raw.githubusercontent.com/flutter/website/master/src/_assets/image/flutter-lockup.png" />][website]
 [<img align="left" alt="android Studio" width="39px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png" />][website]
 [<img align="left" alt="React" width="39px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][website]
-[<img align="left" alt="Material-ui" width="39px" src="https://camo.githubusercontent.com/cf05625198fe7b6ad8a302d1ce16bc99b93ec2ac/68747470733a2f2f6d6174657269616c2d75692e636f6d2f7374617469632f6c6f676f2e737667" />][website]
-[<img align="left" alt="Material-ui" width="39px" src="https://camo.githubusercontent.com/bc93494c1f9faf29cae5064245e03f086a2cb1b5/68747470733a2f2f67772e616c697061796f626a656374732e636f6d2f7a6f732f726d73706f7274616c2f4b4470677667754d704766716148506a6963524b2e737667" />][website]
 [<img align="left" alt="Gatsby" width="39px" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/gatsby/gatsby.png" />][website]
 [<img align="left" alt="GraphQL" width="39px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />][website]
 [<img align="left" alt="Node.js" width="39px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][website]
